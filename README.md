@@ -32,6 +32,7 @@ Ensure you have Python 3.6 or later installed on your system. You can check your
 
 ```bash
 python --version
+```
 If Python is not installed, download and install it from the official Python website (https://www.python.org/downloads/).2.  Project SetupDownload the project files: Download the main.py, slide_extractor.py, and requirements.txt files and save them in the same directory (e.g., a folder named SLIDE_EXTRACTOR).Create a virtual environment (Recommended):It is highly recommended to create a virtual environment for this project to manage dependencies and avoid conflicts with other Python projects.Open your command prompt (on Windows) or terminal (on macOS and Linux).Navigate to the directory where you saved the project files. For example:cd Desktop\SLIDE_EXTRACTOR
 Create a virtual environment:python -m venv venv
 Activate the virtual environment:On Windows:venv\Scripts\activate
